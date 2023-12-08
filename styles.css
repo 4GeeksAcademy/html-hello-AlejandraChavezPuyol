@@ -5,9 +5,23 @@ body {
     width: 400px;
     height: 400px;
 }
+.post-header {
+    display: flex;
+    /* margin-bottom: -15px; */
+}
 img {
     max-inline-size: -webkit-fill-available;
 }
 .fa-solid {
     margin-left: 390px;  
 }
+.icons{
+    display: flex;
+    font-size: 29px;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+.bookmark{
+    margin-left: auto;
+    margin-right: 10px;
+ }
