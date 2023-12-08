@@ -1,0 +1,13 @@
+body {
+    background-color:white;
+}
+.post {
+    width: 400px;
+    height: 400px;
+}
+img {
+    max-inline-size: -webkit-fill-available;
+}
+.fa-solid {
+    margin-left: 390px;  
+}
